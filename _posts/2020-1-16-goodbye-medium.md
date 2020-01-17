@@ -12,7 +12,7 @@ But then things went south very fast.
 
 First, it was super hard to configure custom domain. Later Medium stopped any support for domains for new customers.  
 
-Then, Medium started charging people money to read posts and blocked my content unless with annoying popup, asking people to pay first.  
+Then, Medium started charging people money to read posts and blocked my content with annoying marketing popup, asking people to signup first. Basically used my content to promote them.  
 ![medium paywall](/assets/medium1.png)
 
 The final stroke was the aggressive new design that leave no place for content.  
