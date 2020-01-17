@@ -6,7 +6,7 @@ categories: []
 keywords: []
 ---
 
-Today I moved away my blog from [Medium](http://medium.com).  
+Today I moved my blog away from [Medium](http://medium.com).  
 Initially it was a great friendship. I loved the fonts, design and the easy discovery option.  
 But then things went south very fast.  
 
