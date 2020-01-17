@@ -12,4 +12,6 @@ Before AWS, I worked at Facebook where I worked on FB stories and helped billion
 
 In my free time, I love taking long walks while listening to audiobooks (follow me on GoodReads). I’m also into Jiu-Jitsu and I consider myself lucky if I don’t get hurt once a month.  
 
-Fun fact - I’m a private pilot so if you ever need a ride just let me know! You will need to provide the airplane though ;)
+Fun fact - I’m a private pilot so if you ever need a ride just let me know! You will need to provide the airplane though ✈️  
+
+GLHF :)
