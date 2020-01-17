@@ -5,7 +5,6 @@ description: ''
 date: '2015-11-05T11:47:30.000Z'
 categories: []
 keywords: []
-slug: /@sagivo/hackathon-as-part-of-your-company-dna-45b9a0c0472f
 ---
 
 Yahoo, google, Facebook, BBC, NASA, AT&T have one thing in common — they all have hackathon regularly. A hackathon is not only for weekends and can be incorporated as part of your company’s DNA.

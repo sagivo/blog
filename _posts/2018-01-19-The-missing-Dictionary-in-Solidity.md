@@ -5,7 +5,6 @@ description: (link to the github repo)
 date: '2018-01-19T15:49:55.276Z'
 categories: []
 keywords: []
-slug: /@sagivo/the-missing-dictionary-in-solidity-67b15e0c6d94
 ---
 
 ([link to the github repo](https://github.com/sagivo/solidity-utils))

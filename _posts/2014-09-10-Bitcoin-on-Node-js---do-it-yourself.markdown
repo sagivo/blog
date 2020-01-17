@@ -5,7 +5,6 @@ description: ''
 date: '2014-09-10T04:28:00.000Z'
 categories: []
 keywords: []
-slug: /@sagivo/bitcoin-on-node-js-do-it-yourself
 ---
 
 ([to the project page in github](https://github.com/sagivo/accept-bitcoin "accept bitcoin"))

@@ -5,7 +5,6 @@ description: ''
 date: '2014-09-08T18:27:19.000Z'
 categories: []
 keywords: []
-slug: /@sagivo/mastering-node-js-logs-cc409e8523b3
 ---
 
 It’s very easy to debug your node.js application when you’re in development mode, most of the times you just watch on the console output. This is usually good enough to spot some errors and print some states.

@@ -5,7 +5,6 @@ description: ''
 date: '2014-11-08T22:53:00.000Z'
 categories: []
 keywords: []
-slug: /@sagivo/permutations-ruby-style-recursion-e08120f2b997
 ---
 
 The permutation problem is as follows: Given a list of items, list all the possible orderings of those items.

@@ -5,7 +5,6 @@ description: ''
 date: '2015-09-30T12:24:56.000Z'
 categories: []
 keywords: []
-slug: /@sagivo/go-native-calling-c-from-nodejs-614a2cbfebc1
 ---
 
 (full repo can be found [here](https://github.com/sagivo/nodejs-addons))
