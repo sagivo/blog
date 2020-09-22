@@ -15,7 +15,8 @@ There is nothing more demoralizing than having to look up during the climb and s
 
 This certainly applies to work and other aspects in life. Don’t look up too much. Don’t think you will never get there. Focus on your next step, no matter how small it is. Step by step, you will be able to get to wherever you want. Do not give up and remember - It’s not the destination, it's the journey.  
 
+![picture at the summit](/assets/summit.png)  
+
 Enjoy your journey.
 
-![picture at the summit](/assets/summit.png)
 
