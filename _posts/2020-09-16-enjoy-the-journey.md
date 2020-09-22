@@ -17,3 +17,5 @@ This certainly applies to work and other aspects in life. Don’t look up too mu
 
 Enjoy your journey.
 
+![picture at the summit](/assets/summit.png)
+
