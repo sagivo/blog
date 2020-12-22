@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Is Enough
+title: How much is enough?
 description: (link to the github repo)
 categories: []
 keywords: [lifestyle]
