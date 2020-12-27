@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make passive income using Ethereum 2.0
+title: How to become an ETH2 validator?
 description: Learn how to become eth2 validator and earn staking fees
 categories: [Crypto]
 keywords: [Ethereum, ETH, ETH2, Metamask, Digitalocean, crypto]
