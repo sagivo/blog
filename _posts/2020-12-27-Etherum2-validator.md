@@ -19,7 +19,7 @@ This solution is great if you want to hold your ETH coins for 1-2 years and earn
 
 We will use Metamask as our ethereum wallet. You can install it from [here](https://metamask.io). Do not lose the password and paraphrase for your wallet.  
 After you finished installing your wallet, make sure you select the `goerli` (test) network.
-![Metamask Goerli](../assets/ethereum-11.png)
+![Metamask Goerli](/assets/ethereum-11.png)
 
 ### Get Goerli
 
@@ -46,7 +46,7 @@ Repeat for confirmation:
 
 You will be asked to choose a validator password. Do not lose this password, you will need it to get your money back at some point. **This is not your wallet password**, select a new password just for the validator client. After selecting the password you will get a seed phrase to store in case you lost your validator password. Store the seed phase in a secure location as well.  
 If everything went well you should see a hippo(?) image.  
-![Ethereum CLI validator](../assets/ethereum-4.png)
+![Ethereum CLI validator](/assets/ethereum-4.png)
 
 Open the folder with the keys. In this folder you will find a few files:  
 `deposit_data-[some number].json` - this is the information for your deposit.  
@@ -65,10 +65,10 @@ Now that you staked your eth, you will need 3 nodes to become ETH 2.0 validator:
 
 You can either create a local eth1 client or use a 3rd party node instead. Let's use a 3rd party today. Open a free [alchemyapi.io](https://dashboard.alchemyapi.io/signup?referral=5f4b22ad-1a24-46af-ab1c-4475e8fe177d) and [create an app](https://dashboard.alchemyapi.io/apps). Make sure you select the `Goerli` network for your eth1 node.
 
-![Alchemyapi node](../assets/ethereum-9.png)
+![Alchemyapi node](/assets/ethereum-9.png)
 
 After the app has been created go to the app's page and click on `VIEW KEY`, you will need to copy the HTTP URL for the beacon node.
-![Alchemyapi address](../assets/ethereum-10.png)
+![Alchemyapi address](/assets/ethereum-10.png)
 
 ### Hosting your beacon node and validator client
 
@@ -78,16 +78,16 @@ Your server needs to be available 24/7 or you will accrue penalties and lose ETH
 ### Creating a digitalocean Droplet
 
 From your Digitalocean account, create a [new droplet](https://cloud.digitalocean.com/droplets/new).  
-Choose the `Ubuntu` droplet. This will create a UNIX server running Ubuntu. ![Ubunto droplet](../assets/ethereum-1.png)
+Choose the `Ubuntu` droplet. This will create a UNIX server running Ubuntu. ![Ubunto droplet](/assets/ethereum-1.png)
 
 Select the $10/mo plan. The \$10/month spec is the bare minimum you should choose. If you want to choose a stronger instance go for it.
 
-![10 dollar plan](../assets/ethereum-2.png)
+![10 dollar plan](/assets/ethereum-2.png)
 
 Setup SSH access under the `Authentication` section. This is important to be able to access your server from your terminal.  
 You can leave the other settings as-is.  
 Once your droplet setup is completed copy the ip address from the dashboard.  
-![copy ip](../assets/ethereum-3.png)
+![copy ip](/assets/ethereum-3.png)
 
 ### Setting up your cloud server
 
@@ -262,20 +262,20 @@ Congrats, you have a cloud server running beacon node and validator service. You
 By now you have a cloud server running a beacon node and validator client. You should wait 5-10 hours until your beacon node is fully synced. Once your node is synced it's time to finish the transaction by sending 32ETH to the validator contract.
 
 Go back to the launchpad site you left open and move to the next step. You will be requested to upload your `deposit-data-[timestamp].json` file. Upload the file that contains your validator public key so it can be registered in the network.  
-![Upload ether deposit file](../assets/ethereum-5.png)
+![Upload ether deposit file](/assets/ethereum-5.png)
 
 The next step is to pay the ETH.  
 On the next screen, you will be requested to connect your local wallet. I'm using Metamask in this tutorial.
 Once you connected your Metamask wallet you will be prompted to transfer eth to the contract address. **Validate that you are on the Goerli Test Network before sending any coins**. Also double-check the contract address and once you're comfortable, click Confirm.
-![Confirm Metamask transaction](../assets/ethereum-6.png)
+![Confirm Metamask transaction](/assets/ethereum-6.png)
 
 If you selected more than one validator you will be prompted for each one of them.  
 Wait a few seconds (minutes?) until the transaction is confirmed.  
-![Launchpad transaction confirmation](../assets/ethereum-7.png)
+![Launchpad transaction confirmation](/assets/ethereum-7.png)
 
 Once confirmed, you can move to the last page - [congrats](https://pyrmont.launchpad.ethereum.org/congratulations)!
 
-![Lanchpad eth2 confirmation](../assets/ethereum-8.png)
+![Lanchpad eth2 confirmation](/assets/ethereum-8.png)
 
 You can click on "View The Checklist" to complete the Staker Checklist.  
 Congrats, you've finished everything you need to start earning passive income and participate in the ETH2 network.
