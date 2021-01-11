@@ -36,7 +36,7 @@ You want to buy a sofa on Craigslist or Facebook Marketplace? Now you need to fi
 
 ## AI for traffic lights
 
-How many times you stopped at a red-light and the road was empty? Come on, just install a smart camera that analyzes the cars around it and control the traffic better. It can be as part of a bigger "smart city" initiative but that's a good start.
+How many times have you stopped at a red-light and the road was empty? Come on, just install a smart camera that uses AI to analyze the cars around it and control the traffic better. It can be as part of a bigger "smart city" initiative but that's a good start.
 
 ## Headspace for work
 
