@@ -56,4 +56,4 @@ Ever tried to get a mortgage? The process is painful. First, you need to disclos
 
 ## Just do it
 
-Are you interested in one of these ideas? [Let me know](linkedin.com/in/sagivo), or better, ship it!
+Are you interested in one of these ideas? [Let me know](https://linkedin.com/in/sagivo), or better, ship it!
