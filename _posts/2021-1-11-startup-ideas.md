@@ -56,3 +56,5 @@ Ever tried to get a mortgage? The process is painful. First, you need to disclos
 Smart contracts can do it with one click. Since blockchain records your previous transactions, your credit is determined based on your loan history and not other mambo-jumbo factors. Also, your credit is anonymous so people can loan you based on your credit alone.
 There is no need for lengthy documentation as all the logic will be part of the smart-contract code. Anything from transferring money to recording payments can be done in one place, making bankers and lawyers (and their fees) unnecessary.
 There is an opportunity to set up a company that takes care of the legality aspects, combined with a marketplace where people can lend others (LendingClub style) simply based on their past blockchain credit.
+
+Interested in one of these ideas? Let me know, or better, ship it!
