@@ -48,7 +48,7 @@ I live in NYC where you can find those big tourist buses that drive people aroun
 
 ## Better Mint
 
-I love tracking my finances. I mostly use Mint for it. If you ever used mint.com you probably know why there is a need for something better. The UI is from the 90s, they always try to upsell you credit cards and there are not insightful suggestions. There are many new apps that try to do it today but it’s usually part of a new bank/card initiative. There is opportunity for better tracking and analyzing tool who can give you insights on your budget and how to be more efficient.
+I love tracking my finances. I mostly use Mint for it. If you ever used mint.com you probably know why there is a need for something better. The UI is from the 90s, they always try to upsell you credit cards and there are not insightful suggestions. There are many new apps that try to do it today but it’s usually part of a new bank/card initiative. There is an opportunity for better tracking and analyzing tool who can give you insights on your budget and how to be more efficient.
 
 ## Mortgage over blockchain
 
