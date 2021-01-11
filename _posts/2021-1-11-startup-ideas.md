@@ -54,4 +54,6 @@ I love tracking my finances. I mostly use Mint for it. If you ever used mint.com
 
 Ever tried to get a mortgage? The process is painful. First, you need to disclose your privacy and credit score, fill out tons of paperwork, and pay crazy initiation fees. Smart contracts can do it with one click. Since blockchain records your previous transactions, your credit is determined based on your loan history and not other mambo-jumbo factors. Also, your credit is anonymous so people can loan money to you based on your credit alone. There is no need for lengthy documentation as all the logic will be part of the smart-contract code. Anything from transferring money to recording payments can be done in one place (making bankers, lawyers and their fees unnecessary). There is an opportunity to set up a company that takes care of the legality aspects. Combine that with a marketplace where people can lend to others (LendingClub style) simply based on their past blockchain credit.
 
-_Interested in one of these ideas? Let me know, or better, ship it!_
+---
+
+Are you interested in one of these ideas? [Let me know](linkedin.com/in/sagivo), or better, ship it!
