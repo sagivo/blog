@@ -44,7 +44,7 @@ I want an app on my laptop that reminds me to take a break. I want it to connect
 
 ## Guided city bus tours
 
-I live in NYC where you can find those big tourist buses that drive people around and tell them about the city. This usually costs $50. I will pay $5 for an app that I can download and tells me about the city while I take a $2.75 public bus. The routes are usually the same and I will like to have the recording in my headphones vs the crappy megaphone. The app will record your GPS location and will tell you about where you are based on that. Can be for walking as well as for driving.
+I live in NYC where you can find those big tourist buses that drive people around and tell them about the city. This usually costs $50. I will pay $5 for an app that I can download and tells me about the city while I take a $2.75 public bus. The routes are usually the same and I would rather like to have the recording in my headphones vs the crappy megaphone. The app will record your GPS location and will tell you about where you are based on that. Can be for walking as well as for driving.
 
 ## Better Mint
 
