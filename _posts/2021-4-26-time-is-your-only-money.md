@@ -23,11 +23,16 @@ You can measure time in seconds, hours, years, etc… When you spend time, you c
 
 ### Store of Value
 To act as a store of value, money must be reliably saved, stored, and retrieved. It must be predictably usable as a medium of exchange when it is retrieved. Additionally, the value of money must remain stable over time.  
-This is trickier.  Time has a deflationary aspect into it - the older you get the more you need it.  
-The value of time also fluctuates a lot based on your status in life. If you have 3 kids, two full-time jobs, and lots of earnings, having a free hour may be worth more to you than to someone who’s retired.  
+This is trickier.  In general, time has a deflationary aspect. The older you get the more you need it.  
+The value of time also fluctuates a lot based on your status in life. If you have 3 kids, two full-time jobs, and lots of things going on, having a free hour may be worth more to you than to someone bored.  
 An extra week worth more for someone who’s about to die than to a 7-years old kid in school. Someone who’s in prison will want time to pass faster than someone who’s enjoying her weekend getaway.  
 
+## The value of time?
+So if time is money, what is the real value of it? How can we quantify it?  
+I suspect that we can, simply because it's a very dynamic currency.   
+Have you ever wondered why time flies when you are having fun? Have you ever wanted time to move faster when it felt like it stands still?  
+Time is unique, the more you have of it, the less you need it. The less time you have, the more you need it. 
+It's a dynamic currency that reacts to only one market signal - you.  
 Unlike fiat currencies, you cannot “print” more time. Unlike Bitcoin, you don’t know when you will run out of your funds.  
 Time is scarce, time is exchangeable and time is your only money in this world.  
-
-Use your time wisely. 
+Use your time wisely, spend it on what counts. 
