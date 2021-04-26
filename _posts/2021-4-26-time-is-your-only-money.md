@@ -35,4 +35,4 @@ Time is unique, the more you have of it, the less you need it. The less time you
 It's a dynamic currency that reacts to only one market signal - you.  
 Unlike fiat currencies, you cannot “print” more time. Unlike Bitcoin, you don’t know when you will run out of your funds.  
 Time is scarce, time is exchangeable and time is your only money in this world.  
-Use your time wisely, spend it on what counts. 
+Use your time wisely, be frugal. 
