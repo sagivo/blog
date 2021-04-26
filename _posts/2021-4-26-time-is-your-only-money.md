@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup ideas for 2021
+title: Time is (your only) money
 description: Why time is your only true money
 categories: [startup]
 keywords:
