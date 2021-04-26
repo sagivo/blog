@@ -29,8 +29,8 @@ An extra week worth more for someone who’s about to die than to a 7-years old 
 
 ## The value of time?
 So if time is money, what is the real value of it? How can we quantify it?  
-I suspect that we can, simply because it's a very dynamic currency.   
-Have you ever wondered why time flies when you are having fun? Have you ever wanted time to move faster when it felt like it stands still?  
+I suspect that we can not attach a number to it. Time is a very dynamic currency.   
+Have you ever wondered why time flies when you are having fun? In contrast, have you ever felt like time stands still?  
 Time is unique, the more you have of it, the less you need it. The less time you have, the more you need it. 
 It's a dynamic currency that reacts to only one market signal - you.  
 Unlike fiat currencies, you cannot “print” more time. Unlike Bitcoin, you don’t know when you will run out of your funds.  
