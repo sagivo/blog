@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing Crypto Billboard
+title: Crypto Billboard
 description: Decentralized messaging platform
 categories: [startup, crypto, publishing]
 keywords:
@@ -26,6 +26,6 @@ Publishers are also awarded a unique BLBD NFT - only granted to people who post 
 
 The billboard automatically refreshes the content once a new message is published. I can see how people around the world will be projecting this billboard to check what is published and for how much. I can imagine the messages to be marriage proposals, quotes, jokes, business promotions, and anything in between.
 
-The billboard cannot be taken down by anyone. It has its' own eternal existence on the blockchain. 
+The billboard cannot be taken down by anyone. It has its' own eternal existence on the blockchain.
 
 I can't wait to see what people choose to publish and invite you to [post your message to the world today](https://cryptobillboard.org)!
