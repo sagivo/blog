@@ -15,7 +15,7 @@ If you got a link to this post from me that means that I read your email and fin
 - **I don’t do meetings** My time is important. Yours too. [Time is the only currency we have](https://sagivo.com/startup/2021/04/26/time-is-your-only-money.html). From reading your message I can see that there’s a low chance for a match so let’s save time and skip the meeting.
 
 How can you do better next time?
-Investing more in research before reaching out. Spend most of your time on it. Don’t send generic messages to every engineer in your linkedin filter list. First, it will probably piss them off, second you will end up in the spam folder.
+Invest more in research before reaching out. Spend most of your time on it. Don’t send generic messages to every engineer in your linkedin filter list. First, it will probably piss them off, second you will end up in the spam folder.
 Read about each potential candidate, evaluate their experience and only if you’re 80% sure there’s a match send them an email. The email should be catered towards **their experience**, showing how it can match this new role. Also do some homework on compensation and make sure the company can match the pay for the talent you are targeting.
 I do believe that a personalized message will get you a better response rate with the candidates you approach. Even if it will not be a fit, you will establish a good relationship with them. This can be very useful for the future.
 
