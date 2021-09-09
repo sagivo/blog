@@ -31,7 +31,6 @@ linkedin_username: sagivo
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,6 +52,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-jekyll_analytics:
-  GoogleAnalytics: # Add, if you want to track with Google Analytics
-    id: UA-54596506-1 # Required - replace with your tracking id
+google_analytics: UA-54596506-1
