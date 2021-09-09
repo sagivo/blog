@@ -10,7 +10,7 @@ First, thank you for reaching out. People like you help other people make a livi
 
 If you got a link to this post from me that means that I read your email and find it irrelevant for my profile. It usually the case because:
 
-- **Your role does not fit my experience**. In my last role I led a team of ~70 engineers, managers and product managers in AWS. Is the scope you offer me similar or bigger to it? While I love being hands-on (read [other posts](https://sagivo.com) in my blog) I am not looking to code full-time. Do you really think being an engineer matches my current level and experience?
+- **Your role does not fit my experience**. In my last role I led a team of ~70 engineers, managers and product managers in AWS. Is the scope you offer me similar or bigger to it? While I love being hands-on (read [other posts](https://sagivo.com) in my blog) I am not looking to code full-time. How do you think that being a front-end/back-end/full-stack engineer in your team matches my current level and experience?
 - **You cannot afford me**. I don’t like to brag but there are minimum compensation expectations when you’re coming from a FAANG company. [Levels.fyi](https://www.levels.fyi) can give you an idea of what is expected in each level. Can this company offer a similar (or higher) pay to L7/M2 on Facebook/Google/Amazon? And while I’m sure your startup is about to take over the world- I’m not looking to get paid in virtual money stocks.
 - **I don’t do meetings** My time is important. Yours too. [Time is the only currency we have](https://sagivo.com/startup/2021/04/26/time-is-your-only-money.html). From reading your message I can see that there’s a low chance for a match so let’s save time and skip the meeting.
 
