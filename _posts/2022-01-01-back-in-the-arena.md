@@ -27,6 +27,6 @@ I'm starting a new company, I'm getting back to the game and I'm ready to leave 
 
 Here's for the ones who're in the arena - never settle, keep on fighting and remember - life is short.
 
-PS - if you want to join the arena and fight next to me, [send me a note](mailto:sagiv@sagivo.com).
+PS - if you want to join me in the arena, [send me a note](mailto:sagiv@sagivo.com).
 
 2022 - Let's do it!
