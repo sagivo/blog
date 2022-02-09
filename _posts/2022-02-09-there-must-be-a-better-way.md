@@ -18,11 +18,11 @@ It’s American Idol, after all, it’s too big of an opportunity to give up now
 Luckily there’s an entire industry now that can teach you to sing really fast under pressure. There are businesses that help up-and-coming rock stars learn Arabic and there are online courses that teach how microphones work.
 
 After months of preparation, you’re finally ready for the real audition.
-You go on stage in front of a few judges, but the stage looks strange to you. There’s a large water container on stage.
+You go on stage in front of a few judges, but the stage looks strange to you. There’s a large water container on stage.  
 “We want you to sing Changes by Tupac Shakur in Arabic, under 60 seconds all inside this giant water container. Basically, we want to see how well you can sing underwater,” says one of the judges.  
-“But…,” you say “I won’t be able to breathe there…”.
-“Exactly!” the judge says. “We have a high singing bar. We want a candidate who can sing with no air, the bests can sing for 200 seconds!”
-“So how would you know how good of a singer I am?” you ask.
+“But…,” you say “I won’t be able to breathe there…”.  
+“Exactly!” the judge says. “We have a high singing bar. We want a candidate who can sing with no air, the bests can sing for 200 seconds!”  
+“So how would you know how good of a singer I am?” you ask.  
 “It doesn't matter, we will make you a singer if you can do all of that.”.
 
 I think by now you understand where I’m going with this. Our industry has gone off rails when it comes to hiring engineers.  
@@ -30,10 +30,10 @@ I was a hiring manager at Facebook and Amazon and interviewed hundreds of engine
 I hated the way interviews were conducted there because our interview process did not assess their real-world experience.  
 There is a status signaling between FAANG companies - who conducts the “hardest” interviews, who asks the hardest questions and for which company you need to prepare the most. Kinda weird prestige tag.
 
-Engineers are most comfortable with their _laptops_, but in interviews are asked to write on a _whiteboard_.
-Engineers Google stuff and _research_, but in interviews, they are asked to solve a problem _on the spot_.
-Engineers need to _focus_, but in interviews, they are pressured to solve a problem in an hour while _being watched_.
-Engineers write code to get _sh\*t done_, but in interviews, they are asked to _re-invent_ merge search.
+Engineers are most comfortable with their _laptops_, but in interviews are asked to write on a _whiteboard_.  
+Engineers Google stuff and _research_, but in interviews, they are asked to solve a problem _on the spot_.  
+Engineers need to _focus_, but in interviews, they are pressured to solve a problem in an hour while _being watched_.  
+Engineers write code to get _sh\*t done_, but in interviews, they are asked to _re-invent_ merge search.  
 Engineers _use tools_ to build products, but in interviews, they are asked to come up with tools for _no product_.
 
 After years working for these companies I’ve come to the conclusion that there’s no correlation between how people perform in leetcode-whiteboard coding sessions to how they actually write code in real life.
