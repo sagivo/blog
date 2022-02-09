@@ -27,7 +27,7 @@ You go on stage in front of a few judges, but the stage looks strange to you. Th
 
 I think by now you understand where I’m going with this. Our industry has gone off rails when it comes to hiring engineers.  
 I was a hiring manager at Facebook and Amazon and interviewed hundreds of engineers for big tech companies.  
-I hated the way interviews were conducted there because our interview process did not assess their real-world experience.  
+I hated the way interviews were conducted there because the interview process did not assess real experience.  
 There is a status signaling between FAANG companies - who conducts the “hardest” interviews, who asks the hardest questions and for which company you need to prepare the most. Kinda weird prestige tag.
 
 Engineers are most comfortable with their _laptops_, but in interviews are asked to write on a _whiteboard_.  
@@ -45,7 +45,7 @@ The problem is that people can optimize for an interview and pass without actual
 
 Because of these reasons, I’ve decided that in my new company the hiring process will be different.
 
-How do we hire in [libLab](https://liblab.com)?
+How do we hire in [LibLab](https://liblab.com)?
 
 - There’re no LeetCode questions. Unless we will need a specific algorithm re-invention, we encourage engineers to use existing, well-tested tools.
 - There’s no whiteboard. It’s good if we want to brainstorm, but we don’t code on them.
