@@ -39,7 +39,7 @@ Engineers _use tools_ to build products, but in interviews, they are asked to co
 After years working for these companies I’ve come to the conclusion that there’s no correlation between how people perform in leetcode-whiteboard coding sessions to how they actually write code in real life.
 
 It was not rare to find candidates who memorized answers to algorithm questions that can easily be found online.  
-**I was not tasting their knowledge, I was testing their preparation** to the interview. Companies deduce that if a candidate worked hard to prepare to the interview, they have what it takes to be an excellent engineer.
+**I was not testing their knowledge, I was testing their preparation** to the interview. Companies deduce that if a candidate worked hard to prepare to the interview, they have what it takes to be an excellent engineer.
 
 The problem is that people can optimize for an interview and pass without actually being good engineers (false positive). Companies can also fail an amazing engineer that will simply not prepare for this type of interview style (false negative).
 
