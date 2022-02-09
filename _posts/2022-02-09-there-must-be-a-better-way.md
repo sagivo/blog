@@ -45,7 +45,7 @@ The problem is that people can optimize for an interview and pass without actual
 
 Because of these reasons, I’ve decided that in my new company the hiring process will be different.
 
-How do we hire in [liblab](liblab.com)?
+How do we hire in [libLab](https://liblab.com)?
 
 - There’re no LeetCode questions. Unless we will need a specific algorithm re-invention, we encourage engineers to use existing, well-tested tools.
 - There’s no whiteboard. It’s good if we want to brainstorm, but we don’t code on them.
@@ -56,4 +56,4 @@ How do we hire in [liblab](liblab.com)?
 Hiring and interviewing engineers is not easy. It’s a manual process that requires a lot of time and effort.  
 Test for the skills you’re actually looking for.
 
-If you want to see how we hire in Liblab, check out our [careers page](liblab.com/careers)!
+If you want to see how we hire in Liblab, check out our [careers page](https://liblab.com/careers)!
