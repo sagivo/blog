@@ -35,7 +35,7 @@ SaaS companies are everywhere. There are so many products a company can use. An 
 
 ## Async-first culture
 
-It's common to see ads for companies who hire "only in Europe". Others (like [liblab](https://liblab.com) will hire globally as long as people are willing to work in U.S. time zones. To allow people from Thailand to work effectively with people from Brazil, we need better tools and processes for async communication. The less we rely on meetings the more we can be inclusive to other time zones. What tools can we build to enable async work? What processes can we put in place to replace meetings?
+It's common to see ads for companies who hire "only in Europe". Others (like [liblab](https://liblab.com)) will hire globally as long as people are willing to work in the same time zones. To allow people from Thailand to work effectively with people from Brazil, we need better tools and processes for async communication. The less we rely on meetings the more we can be inclusive to other time zones. What tools can we build to enable async work? What processes can we put in place to replace meetings?
 
 ## Virtual hangout
 
