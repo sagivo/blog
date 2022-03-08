@@ -30,7 +30,7 @@ The move is fairly simple and in order to export your content from Medium to Jek
 - Run the Ruby script in [this article](https://medium.com/@jameshamann/displaying-medium-posts-on-your-jekyll-website-7eef230309e4).
 - Configure [jekyll](https://jekyllrb.com/).
 - Deploy your new blog for free using Github Pages.
-- Enjoy a whole new add-free world for your content.
+- Enjoy a whole new ad-free world for your content.
 
 ### Next steps
 The basic theme is not great, I would love to upgrade the design someday, till them - focus on the content :)
