@@ -7,6 +7,8 @@ keywords:
   [startup, ideas, Ethereum, netflix, goodreads, podcasts, social, mint, NFC]
 ---
 
+[You can also listen to me talking about these ideas with Jakob Greenfeld in his [Business Brainstorms](https://overcast.fm/+nCXJerq5Q) podcast]
+
 Happy 2022!
 One of my (many) strange hobbies is to keep a list of ideas that I would like to explore one day. Each year this list gets larger and my availability gets smaller. This is why I want to share these ideas, in hopes that it will inspire someone to start their own company.
 
