@@ -32,7 +32,7 @@ At [LibLab](https://liblab.com), we firmly believe that offsites shouldn't be vi
 
 ### Offsite content
 
-At [LibLab](https://liblab.com), we ensure that each offsite revolves around the [three ps](https://www.bondcollective.com/blog/people-process-product/) fundamental pillars of a successful company, with a dedicated day for each:
+At [LibLab](https://liblab.com), we ensure that each offsite revolves around the [three Ps](https://www.bondcollective.com/blog/people-process-product/) fundamental pillars of a successful company, with a dedicated day for each:
 
 1. People: One day is exclusively focused on fostering better interpersonal connections among team members. We curate events that aim to deepen mutual understanding and camaraderie. Team bonding activities, insightful 1:1 sessions between colleagues, and open discussions about culture and values are integral components. Recognizing that people are the backbone of every company, we prioritize these activities to encourage a more cohesive and harmonious work environment.
 2. Product: The second day is dedicated to product-related work. We delve into strategic discussions about what the team should build, the rationale behind these decisions, and the evaluation of past successes and shortcomings. Kickstarting the day with a wishlist of short and long-term ideas that everyone can contribute to. Keep in mind - Your best product ideas can come from anyone on the team.
