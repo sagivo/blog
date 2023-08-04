@@ -20,7 +20,7 @@ Furthermore, instilling a sense of community and belonging among remote workers 
 
 ### Making Offsites a Regular Event
 
-At LibLab, we firmly believe that offsites shouldn't be viewed as mere perks or occasional distractions. Instead, they should be integrated into a company's regular calendar. To ensure the success of your offsite, consider the following tips:
+At [LibLab](https://liblab.com), we firmly believe that offsites shouldn't be viewed as mere perks or occasional distractions. Instead, they should be integrated into a company's regular calendar. To ensure the success of your offsite, consider the following tips:
 
 1. Budget: Set a budget that aligns with your company's financial capabilities. Determine if it will be a luxurious 5-star hotel retreat or a cost-effective one-day event. Account for out-of-state commutes to gauge the overall cost.
 2. Location: Opt for a venue that is convenient for the majority of your team. Minimizing commute time and expenses will encourage better attendance and overall engagement. Do you prefer a business-oriented location in downtown, or a more relaxed location near the beach?
@@ -32,7 +32,7 @@ At LibLab, we firmly believe that offsites shouldn't be viewed as mere perks or 
 
 ### Offsite content
 
-At LibLab, we ensure that each offsite revolves around the [three ps](https://www.bondcollective.com/blog/people-process-product/) fundamental pillars of a successful company, with a dedicated day for each:
+At [LibLab](https://liblab.com), we ensure that each offsite revolves around the [three ps](https://www.bondcollective.com/blog/people-process-product/) fundamental pillars of a successful company, with a dedicated day for each:
 
 1. People: One day is exclusively focused on fostering better interpersonal connections among team members. We curate events that aim to deepen mutual understanding and camaraderie. Team bonding activities, insightful 1:1 sessions between colleagues, and open discussions about culture and values are integral components. Recognizing that people are the backbone of every company, we prioritize these activities to encourage a more cohesive and harmonious work environment.
 2. Product: The second day is dedicated to product-related work. We delve into strategic discussions about what the team should build, the rationale behind these decisions, and the evaluation of past successes and shortcomings. Kickstarting the day with a wishlist of short and long-term ideas that everyone can contribute to. Keep in mind - Your best product ideas can come from anyone on the team.
@@ -40,4 +40,4 @@ At LibLab, we ensure that each offsite revolves around the [three ps](https://ww
 
 ![Team offsite](/assets/offsite-3.webp)
 
-A well-planned offsite can strengthen team bonds for remote workers. By bringing team members together, offsites foster effective communication, collaboration, and trust, laying the foundation for long-term success. Moreover, these gatherings ignite innovation and creative problem-solving through the sharing of diverse perspectives. Emphasizing the significance of a sense of community and belonging, offsites contribute to enhanced employee engagement and retention. At LibLab, we advocate for making offsites a regular fixture on the company calendar, focusing on the three crucial elements: people, product, and process. By prioritizing interpersonal connections, encouraging purpose-driven product discussions, and optimizing company processes, we create a thriving and harmonious work environment that propels our success. As remote work continues to thrive, embracing the potential of well-organized offsites remains a key strategy in cultivating a connected and motivated workforce.
+A well-planned offsite can strengthen team bonds for remote workers. By bringing team members together, offsites foster effective communication, collaboration, and trust, laying the foundation for long-term success. Moreover, these gatherings ignite innovation and creative problem-solving through the sharing of diverse perspectives. Emphasizing the significance of a sense of community and belonging, offsites contribute to enhanced employee engagement and retention. At [LibLab](https://liblab.com), we advocate for making offsites a regular fixture on the company calendar, focusing on the three crucial elements: people, product, and process. By prioritizing interpersonal connections, encouraging purpose-driven product discussions, and optimizing company processes, we create a thriving and harmonious work environment that propels our success. As remote work continues to thrive, embracing the potential of well-organized offsites remains a key strategy in cultivating a connected and motivated workforce.
