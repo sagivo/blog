@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to by blog.
+Welcome to my blog.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -26,11 +26,11 @@ Welcome to by blog.
 
 <!--End mc_embed_signup-->
 
-I love writing about software engineering, leadership and anything in between.  
+I love writing about software engineering, leadership, and anything in between.  
 The blog is meant to be a practical guide for real-life situations.  
-Currently I'm building a new company - [LiblLab](https://liblab.com).  
+Currently, I'm building a new company - [LiblLab](https://liblab.com).  
 I enjoy enabling people to build amazing products.  
-Before that I managed the AWS SDK teams. And before that, I worked at Facebook and helped billion people to connect by sharing moments of their lives. Before Facebook, I started 3 companies across the US, Israel and Brazil.
+Before that, I managed the AWS SDK teams. Before that, I worked at Facebook and helped a billion people connect by sharing moments of their lives. Before Facebook, I started 3 companies across the US, Israel, and Brazil.
 
 In my free time, I love taking long walks while listening to audiobooks (follow me on [GoodReads](http://goodreads.com/sagivo)). I’m also into Jiu-Jitsu and I consider myself lucky if I don’t get hurt once a month.
 
